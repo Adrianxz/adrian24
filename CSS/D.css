@@ -1,0 +1,114 @@
+Header
+{
+	display: block;
+}
+
+body
+{
+
+	margin: 0px;
+	padding: 0px;
+	background: #0552;
+}
+
+
+
+.d-block 
+{
+	display: flex;
+  height: 400px;
+  width: 100%;
+}
+
+.Flex-C
+{
+	display: flex;
+	margin-left: 25px;
+
+	
+}
+
+.Flex-x
+{
+	overflow-y: scroll;
+	margin-left: 20px;
+	padding-right: 20px;
+}
+
+#L1
+{
+   padding: 70px;
+}
+
+
+
+
+#bt1
+{
+	display: flex;
+    margin-left: 170px;
+    color: #1E0C74;
+   
+   
+}
+
+.Text-1
+{
+
+
+	display: block;
+
+	
+
+	border: 4px solid gray;
+ 
+    padding: 6px;
+
+   
+     
+     background: #0994;
+
+	color: #FFFF;
+}
+
+.C-O
+{
+
+	display: inline-block;
+
+	background: #FFF;
+
+	border: 3px solid #DEDEDE;
+
+	align-items: center;
+}
+
+.Img
+{
+	display: block;
+	
+
+}
+
+.btn
+{
+	display: flex;
+
+	
+	padding: 2px;
+	
+	z-index: auto;
+	
+
+}
+
+.lk{
+	display: flex;
+
+	width: 200px;
+	margin: 5px;
+	padding:5px ;
+
+	z-index: auto;
+	flex-wrap: wrap;
+}
